@@ -101,8 +101,12 @@ dist
 .vuepress/dist
 
 # vuepress v2.x temp and cache directory
+.tmp
 .temp
 .cache
+
+# covers
+public/images/covers/*
 
 # vitepress build output
 **/.vitepress/dist
